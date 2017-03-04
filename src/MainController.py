@@ -1,10 +1,10 @@
 from sklearn.model_selection import train_test_split
 
-from Learner import *
 from Classifier import *
 from FeatureExtractor import *
+from Learner import *
 
-inputData = pd.read_csv(appConfig.DATA_FOLDER + "/" + appConfig.TRAIN_FILE, sep="\t")
+inputData = pd.read_csv(appConfig.DATA_FOLDER + "/" + appConfig.DATA_FILE, sep="\t")
 
 X = inputData[appConfig.DATA_FIELD]
 y = inputData[appConfig.LABEL_FIELD]
@@ -20,7 +20,6 @@ learnerObject.trainingData = X_train
 learnerObject.trainingLabels = y_train
 
 learnerObject.doMachineLearning()
-learnerObject.fitClassifierAndSave()
 
 classifierObject = Classifier()
 classifierObject.testData = X_test
@@ -28,4 +27,4 @@ classifierObject.testLabels = y_test
 # testdf = pd.DataFrame(data={'label':y_test})
 # testdf.to_csv('output/testLabels.txt', sep='\t')
 classifierObject.doClassification()
-classifierObject.printConfusionMatrix()
+classifierObject.printResults()

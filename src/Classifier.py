@@ -1,5 +1,6 @@
-import sys
 import os
+import sys
+
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname( __file__ ), '../..')))
 import pandas as pd, cPickle
 from sklearn.metrics import confusion_matrix
@@ -20,7 +21,13 @@ class Classifier(object):
         self.testFeatures = None
         self.result = None
 
-    def printConfusionMatrix(self):
+    #This is the function showing the results for us
+    # gets tests labels
+    # gets predicitons
+    # generates metrics for us to analyse
+    # 1. Confusion matrix, 2. Precision, 3. Recall, 4. F-score, 5. Accuracy
+    # prints these results in a console and also saves them to a file in output folder
+    def printResults(self):
 
         y_actual = pd.Series(self.testLabels, name='Actual')
         y_prediction = pd.Series(self.result, name='Predicted')
@@ -52,14 +59,15 @@ class Classifier(object):
         outputNumbersFile.write('\nf-score : ' + str(f_score))
         outputNumbersFile.close()
 
-
-
-
-
+    #This method does predictions
+    # gets test features
+    # loads the model
+    # makes predictions
+    # saves the predictions to a file in output folder
     def classify(self):
 
         # if appConfig.CLASSIFIER_MODE == 'rf':
-        with open(appConfig.MODELS_FOLDER + "/" +appConfig.OUTPUT_FILE+ ".pickle", 'rb') as fid:
+        with open(appConfig.MODELS_FOLDER + "/" + appConfig.OUTPUT_FILE+ ".pickle", 'rb') as fid:
             model_loaded = cPickle.load(fid)
 
         self.result = model_loaded.predict(self.testFeatures)
@@ -73,6 +81,10 @@ class Classifier(object):
         output.to_csv(appConfig.OUTPUT_FOLDER + "/" + appConfig.OUTPUT_FILE + "_cases.tsv", sep="\t")
         print (__name__ + '\tOutput written to file')
 
+    #This is the function doing the classification task
+    # gets preprocessed test data
+    # gets features of test data
+    # classifies the test data
     def doClassification(self):
 
         if len(self.testData) > 0:
@@ -84,9 +96,9 @@ class Classifier(object):
 
 
 if __name__ == '__main__':
-    testData = pd.read_csv(appConfig.DATA_FOLDER + '/' + appConfig.TEST_FILE, sep='\t')
+    testData = pd.read_csv(appConfig.DATA_FOLDER + '/' + appConfig.DATA_FILE, sep='\t')
     classifierObject = Classifier()
     classifierObject.testData = testData[appConfig.DATA_FIELD]
     classifierObject.testLabels = testData[appConfig.LABEL_FIELD]
     classifierObject.doClassification()
-    classifierObject.printConfusionMatrix()
+    classifierObject.printResults()

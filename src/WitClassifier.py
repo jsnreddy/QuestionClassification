@@ -5,10 +5,14 @@ Details about wit model - https://wit.ai/blog and https://code.facebook.com/post
 Details about the API - https://wit.ai/docs/http/20160526#post--entities-link
 """
 
-import urllib, urllib2, json, sys
+import json
+import sys
+import urllib2
+
 from wit import Wit
 
-import appConfig
+from src import appConfig
+
 
 def trainWitViaAPI():
 	fname = appConfig.DATA_FOLDER + '/' + appConfig.TRAIN_FILE

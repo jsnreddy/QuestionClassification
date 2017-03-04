@@ -1,5 +1,6 @@
-import sys
 import os
+import sys
+
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname( __file__ ), '../..')))
 import pandas as pd
 import cPickle
@@ -25,12 +26,10 @@ class Learner(object):
         self.trainingFeatures = None
         self.model = None
 
-    def doMachineLearning(self):
-        if len(self.trainingData) > 0:
-            print (__name__ + '\tTraining Data Shape : ' + str(self.trainingData.shape))
-            self.trainingData = FeatureExtractor.preprocessData(self.trainingData)
-            self.trainingFeatures = FeatureExtractor.getFeatures(self.trainingData)
-
+    #This function fit the classifier model(as configured in appConfig.CLASSIFIER_MODE,
+    # cross-validates over 10 splits on training data and
+    # saves the model to a pickle file in models folder
+    # cross validation results are also saved to a file in output folder
     def fitClassifierAndSave(self):
         print (__name__ + '\tFitting classifier')
         if appConfig.CLASSIFIER_MODE == 'rf':
@@ -79,11 +78,20 @@ class Learner(object):
             cPickle.dump(self.model, fid)
         print (__name__ + '\tModel Saved to Pickle file')
 
+    #This is the function doing all the learning
+    # gets preprocessed data
+    # gets features
+    # builds model and saves it
+    def doMachineLearning(self):
+        if len(self.trainingData) > 0:
+            print (__name__ + '\tTraining Data Shape : ' + str(self.trainingData.shape))
+            self.trainingData = FeatureExtractor.preprocessData(self.trainingData)
+            self.trainingFeatures = FeatureExtractor.getFeatures(self.trainingData)
+            self.fitClassifierAndSave()
 
 if __name__ == '__main__':
-    trainingData = pd.read_csv(appConfig.DATA_FOLDER + "/" + appConfig.TRAIN_FILE, sep="\t")
+    trainingData = pd.read_csv(appConfig.DATA_FOLDER + "/" + appConfig.DATA_FILE, sep="\t")
     learnerObject = Learner()
     learnerObject.trainingData = trainingData[appConfig.DATA_FIELD]
     learnerObject.trainingLabels = trainingData[appConfig.LABEL_FIELD]
     learnerObject.doMachineLearning()
-    learnerObject.fitClassifierAndSave()
