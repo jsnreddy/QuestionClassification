@@ -1,0 +1,8 @@
+Apart from the requirements in requirements.txt, I am using pretrained Google Word2Vec model which needs to be added in the models folder.
+
+Steps - 
+1. Download the Google Word2Vec model - This model can be downloaded from - https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing.
+2. Extract the downloaded file and place it in the 'models' folder.
+
+This model is used upon configuring
+FEATURE_EXTRACTION_MODE = 'gwv' in appConfig.py.
