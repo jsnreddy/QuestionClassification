@@ -21,10 +21,10 @@ LABELS = ['who', 'what', 'when', 'affirmation', 'unknown']
 # bow-bag of words, gwv-google wordvectors,
 # doc2vec - custom doc2vec model trained on ~6k questions(http://cogcomp.cs.illinois.edu/Data/QA/QC/train_5500.label)
 ############ PLEASE DONOT USE doc2vec MODE IN VERSION 1. ##############
-FEATURE_EXTRACTION_MODE = 'bow'
+FEATURE_EXTRACTION_MODE = 'gwv'
 
 # rf-random forests, lsvc - Linear SVC, gnb - Gaussian Naive Bayes, knn - k-nearest neighbours, lr - logistic regression, neuralN - neural network
-CLASSIFIER_MODE = 'knn'
+CLASSIFIER_MODE = 'lsvc'
 
 #some stop words which can be removed, used in preprocessing
 custom_stop_words = ['the', 'a', 'an', 'and', 'of', 'from', 'in']
