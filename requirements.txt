@@ -1,0 +1,9 @@
+cloudpickle==0.1.1
+nltk==3.2
+numpy==1.11.3
+pandas==0.18.0
+requests==2.13.0
+scikit-learn==0.18.1
+scipy==0.18.1
+wit==4.2.0
+gensim==1.0.0

@@ -1,0 +1,1484 @@
+id	question	category
+1	how did serfdom develop in and then leave russia ?	unknown
+2	what films featured the character popeye doyle ?	what
+3	how can i find a list of celebrities ' real names ?	unknown
+4	what fowl grabs the spotlight after the chinese year of the monkey ?	what
+5	what is the full form of .com ?	what
+6	what contemptible scoundrel stole the cork from my lunch ?	what
+7	what team did baseball 's st. louis browns become ?	what
+8	what is the oldest profession ?	what
+9	what are liver enzymes ?	what
+10	name the scar-faced bounty hunter of the old west .	unknown
+11	when was ozzy osbourne born ?	when
+12	why do heavier objects travel downhill faster ?	unknown
+13	who was the pride of the yankees ?	who
+14	who killed gandhi ?	who
+15	what is considered the costliest disaster the insurance industry has ever faced ?	what
+16	what sprawling u.s. state boasts the most airports ?	what
+17	what did the only repealed amendment to the u.s. constitution deal with ?	what
+18	how many jews were executed in concentration camps during wwii ?	unknown
+19	what is `` nine inch nails '' ?	what
+20	what is an annotated bibliography ?	what
+21	what is the date of boxing day ?	what
+22	what articles of clothing are tokens in monopoly ?	what
+23	name 11 famous martyrs .	unknown
+24	what 's the olympic motto ?	what
+25	what is the origin of the name ` scarlett ' ?	what
+26	what 's the second-most-used vowel in english ?	what
+27	who was the inventor of silly putty ?	who
+28	what is the highest waterfall in the united states ?	what
+29	name a golf course in myrtle beach .	unknown
+30	which two states enclose chesapeake bay ?	unknown
+31	what does the abbreviation aids stand for ?	what
+32	what does a spermologer collect ?	what
+33	how many points make up a perfect fivepin bowling score ?	unknown
+34	which company that manufactures video-game hardware sells the `` super system '' ?	unknown
+35	how many community chest cards are there in monopoly ?	unknown
+36	what do mormons believe ?	what
+37	when did the neanderthal man live ?	when
+38	in what religion was isis the nature goddess ?	what
+39	where do the adventures of `` the swiss family robinson '' take place ?	unknown
+40	what relative of the racoon is sometimes known as the cat-bear ?	what
+41	how can i register my website in yahoo for free ?	unknown
+42	what was cash-conscious colonel edwin l. drake the first to drill ?	what
+43	how many people in the world speak french ?	unknown
+44	how many inches over six feet is the venus de milo ?	unknown
+45	how do they find or choose witnesses to an execution ?	unknown
+46	what 1920s cowboy star rode tony the wonder horse ?	what
+47	what cocktail inspired john doxat to write the book stirred-not shaken ?	what
+48	what isps exist in the caribbean ?	what
+49	how do you ask a total stranger out on a date ?	unknown
+50	what weapon is the mythological character apollo most proficient with ?	what
+51	what country do the galapagos islands belong to ?	what
+52	what is ethology ?	what
+53	who was the prophet of the muslim people ?	who
+54	where did the term `` 86ed '' come from ?	unknown
+55	who is snoopy 's arch-enemy ?	who
+56	what is the nature of learning ?	what
+57	what 's the only color johnny cash wears on stage ?	what
+58	what 's the term for a young fox ?	what
+59	what u.s. state lived under six flags ?	what
+60	what is the kashmir issue ?	what
+61	where is the loop ?	unknown
+62	what does `` extended definition '' mean and how would one write a paper on it ?	what
+63	what country 's capital is tirana ?	what
+64	what is titanium ?	what
+65	who do herb and tootsie live next door to ?	who
+66	which city has the oldest relationship as a sister�city with los angeles ?	unknown
+67	what is a caldera ?	what
+68	why do people get calluses ?	unknown
+69	what are the names of the tourist attractions in reims ?	what
+70	what are cushman and wakefield known for ?	what
+71	what body of water does the danube river flow into ?	what
+72	who is the founder of scientology ?	who
+73	what does the six-footed musca domestica become when it enters a house ?	what
+74	what is the history of skateboarding ?	what
+75	who starred in singing in the rain and the singing nun ?	who
+76	how do i make fuel bricks from recycled newspaper ?	unknown
+77	what 19th-century painter died in the marquesas islands ?	what
+78	the corpus callosum is in what part of the body ?	what
+79	how do i log on to home page at headquarters u.s. european command ?	unknown
+80	what country did the nazis occupy for ? .	what
+81	what is nebraska 's most valuable resource ?	what
+82	how many species of the great white shark are there ?	unknown
+83	what is the origin of head lice ?	what
+84	what is the nickname for the state of mississippi ?	what
+85	what was the first domesticated bird ?	what
+86	how many villi are found in the small intestine ?	unknown
+87	what country did king wenceslas rule ?	what
+88	what is a fear of shadows ?	what
+89	who were the five marx brothers ?	who
+90	in which year was new zealand excluded from the anzus alliance ?	unknown
+91	when did cnn begin broadcasting ?	when
+92	what causes the body to shiver in cold temperatures ?	what
+93	what are bear and bull markets ?	what
+94	what j.r.r. tolkien book features bilbo baggins as the central character ?	what
+95	what is `` dew point '' ?	what
+96	what is the meaning of jesus ?	what
+97	what company 's logo is a `` w '' in a circle ?	what
+98	what is the definition of a cascade ?	what
+99	when did rococo painting and architecture flourish ?	what
+100	what country 's national passenger rail system is called via ?	what
+101	who invented make-up ?	who
+102	what is the origin of the word `` attic '' ?	what
+103	what did delilah do to samson 's hair ?	what
+104	what kind of animals were in the paleozoic era ?	what
+105	which of the following was rhodes scholar ?	unknown
+106	who comprised the now-defunct comic book team known as the champions ?	who
+107	how do you make a paintball ?	unknown
+108	what u.s. state is fort knox in ?	what
+109	what is a female rabbit called ?	what
+110	where is the highest point in japan ?	unknown
+111	where do chihuahuas come from ?	unknown
+112	where does barney rubble go to work after he drops fred off in the `` flintstones '' cartoon series ?	unknown
+113	what are the world 's four oceans ?	what
+114	what 's the only work by michelangelo that bears his signature ?	what
+115	what is the largest snake in the world ?	what
+116	in what medium is stuart hamblen considered to be the first singing cowboy ?	what
+117	where on the internet can i find a song lyrics database similar to the international lyrics server ?	unknown
+118	how much money does a back injury lawsuit get ?	unknown
+119	what 's the common name for acetylsalicylic acid ?	what
+120	what does the georgetown `` hoya '' mean ?	what
+121	where can i find a list of `` classic '' books 5th and 6th graders should read ?	unknown
+122	which two products use a tiger as their symbol ?	unknown
+123	how is the election of a new pope announced to the world ?	unknown
+124	how long does it take for your blood to make one complete trip through the body ?	unknown
+125	how do chickens have baby chicks ?	unknown
+126	what is the historical relationship of catholic church and bingo ?	what
+127	how was the element calcium named ?	unknown
+128	what crooner joined the andrews sisters for pistol packin mama ?	what
+129	what piano company claims its product is the `` instrument of the immortals '' ?	what
+130	when did the bounty mutiny take place ?	unknown
+131	what novel inspired the movie bladerunner ?	what
+132	what is a transistor ?	what
+133	what is a film starring jude law ?	what
+134	what hollywood dog died in the arms of jean harlow in 1932 ?	what
+135	what are the most common elements in the earth 's crust ?	what
+136	how much would it cost to purchase a 2-foot-square party tent , with sides , ?	unknown
+137	what actress has received the most oscar nominations ?	what
+138	what are equity securities ?	what
+139	what is gymnophobia ?	what
+140	how many years do fossils take to form ?	unknown
+141	where is the orinoco ?	unknown
+142	what was the name of the `` little rascals '' dog ?	what
+143	what city boasts penn 's landing , on the banks of the delaware river ?	what
+144	what broadway musical was inspired by cervantes 's don quixote ?	what
+145	what is the origin of the word . ?	what
+146	how many hostages were killed in the entebbe raid ?	unknown
+147	how you can raise your iq ?	unknown
+148	what does inri stand for when used on jesus ' cross ?	what
+149	who produces spumante ?	who
+150	who earns their money the hard way ?	who
+151	who founded the people 's temple commune ?	who
+152	what athlete makes the most money from sports merchandise sales ?	what
+153	how many bends are there in a standard paper clip ?	unknown
+154	who discovered electricity ?	who
+155	what part of your body contains the corpus callosum ?	what
+156	who was the first american in space ?	who
+157	what two south american countries do n't border brazil ?	what
+158	what album put the beatles on the cover of time in 1967 ?	what
+159	what poem contains the line , `` grow old with me the best is yet to be '' . ?	what
+160	what is a dental root canal ?	what
+161	what war did the wanna-go-home riots occur after ?	what
+162	what is the busiest air travel season ?	what
+163	what 's the colored part of the eye called ?	what
+164	what are hook worms ?	what
+165	where is the rose bowl played ?	unknown
+166	which japanese car maker had its biggest percentage of sale in the domestic market ?	unknown
+167	who is the mayor of marbella ?	who
+168	what sun-blasted , 14-mile wide valley is just north of the mojave desert ?	what
+169	in what year did thatcher become prime minister ?	what
+170	how many months does it take the moon to revolve around the earth ?	unknown
+171	where are the 49 steps ?	unknown
+172	in what year was de gaulle elected president of france ?	what
+173	who sings the themes for `` dawson 's creek '' and `` felicity '' ?	who
+174	who directed `` jaws '' ?	who
+175	on what t.v. show could tom terrific be found ?	what
+176	what indian tribe is f troop perpetually doing battle with ?	what
+177	where did indian pudding come from ?	unknown
+178	why do some clothing labels say `` use a nonchlorine bleach '' ?	unknown
+179	how many colonies were involved in the american revolution ?	unknown
+180	what is the name of the city that maurizio pellegrin lives in ?	what
+181	where can i find pictorial directions on how to build a very simple treehouse ?	unknown
+182	what game 's board shows the territories of irkutsk , yakutsk and kamchatka ?	unknown
+183	what is the name of the managing director of apricot computer ?	unknown
+184	what is the occupation of nicholas cage ?	unknown
+185	why do horseshoes bring luck ?	unknown
+186	what is the 401 , k , plan ?	what
+187	what causes pneumonia ?	what
+188	what are the three winter months in the southern hemisphere ?	what
+189	what does gringo mean ?	what
+190	what country contains africa 's northernmost point ?	what
+191	what therapy attempts to elicit the `` primal scream '' ?	what
+192	where is the kalahari desert ?	unknown
+193	which ventura county police department seized the largest cocaine shipment in it 's history ?	unknown
+194	what city is sometimes called gotham ?	what
+195	what dangles over the tongue from the palate ?	what
+196	who created dennis the menace ?	who
+197	what dummy received an honorary degree from northwestern university ?	what
+198	when was the first wall street journal published ?	unknown
+199	what countries have the largest areas of forest ?	what
+200	how do i start a web based business ?	unknown
+201	name alvin 's brothers ?	unknown
+202	what is eagle 's syndrome styloid process ?	what
+203	how did jayne mansfield die ?	unknown
+204	when did the royal wedding of prince andrew and fergie take place ?	when
+205	what actor said in a day at the races : `` either he 's dead or my watch has stopped '' ?	what
+206	what explorer was nicknamed iberia 's pilot ?	what
+207	cnn began broadcasting in what year ?	what
+208	what is a ball that hits the foul pole called ?	what
+209	what makes hamburgers taste like steakburgers ?	what
+210	which company created the internet browser mosaic ?	unknown
+211	what are the rites accompanying the circumcision of a newly born-child in judaism called ?	what
+212	what was the education system in the 1960 's ?	what
+213	what south american city has the world 's highest commercial landing field ?	what
+214	how can i find out which cities have cable-modem access ?	unknown
+215	what is betsy ross famous for ?	what
+216	how many species of sharks are there ?	unknown
+217	what is `` snoogans '' ?	what
+218	how many people are there in the world ?	unknown
+219	what shrubs can be planted that will be safe from deer ?	what
+220	what organization 's offices were broken into at watergate in 1972 ?	what
+221	what is the design of the ship titanic ?	what
+222	what does s.o.s. stand for ?	what
+223	name a technique widely used to detect birth defects ?	unknown
+224	what is the daily requirement of folic acid for an expectant mother ?	what
+225	what is the `` 7-minute cigarette '' ?	what
+226	what four forms does gold occur in ?	what
+227	what is the acreage of the chappellet vineyard ?	what
+228	how do you correctly say the word ` qigong ' ?	unknown
+229	when did beethoven die ?	when
+230	how much does a new railroad coal car cost ?	unknown
+231	what two european countries entered the war of american independence against the british ?	what
+232	what is the filmmakers collabrative ?	what
+233	what russian composer 's prelude in c sharp minor brought him fame and fortune ?	what
+234	what caused harry houdini 's death ?	what
+235	who was the mother of the man who would not be king , the duke of windsor ?	who
+236	how many revolutions does a standard lp make in three minutes ?	unknown
+237	what is the name of the tallest mountain in the world ?	what
+238	where can i find a review of nightmare on elm street in a film journal ?	unknown
+239	what 's the slowest olympic swimming stroke ?	what
+240	what was the name of the first russian astronaut to do a spacewalk ?	what
+241	what disease is transmitted by the anopheles mosquito ?	what
+242	what rum is so `` mixable '' it is a one-brand bar ?	what
+243	how many south american countries have the letter z in their names ?	unknown
+244	what is the contents of proposition 98 ?	what
+245	where was george washington born ?	unknown
+246	how many people on the ground were killed from the bombing of pan am flight 103 over lockerbie , scotland , december 21 , cd . ?	unknown
+247	who wrote nn dt nnp nnp '' ?	who
+248	what is paracetamol ?	what
+249	what are the powers and weaknesses of green lantern 's ring ?	what
+250	which mosquito 's bite draws blood , dt nn cc dt nn . ?	unknown
+251	when was the first steel mill in the united states built ?	when
+252	what diminutive american female gymnast stole the show at the 1984 olympics ?	what
+253	what is the origin of the name katie ?	what
+254	what schools in the washington , dc nn nn vbp nn nn nn nn . ?	what
+255	when did the berlin wall go up ?	unknown
+256	who is terrence malick ?	who
+257	what instrument is ray charles best known for playing ?	what
+258	what 's the meaning of the latin battle cry : ad arma , ad arma . ?	what
+259	what is the mascot for notre dame university ?	what
+260	what las vegas hotel burned in november , 1980 , with the loss of 84 lives ?	what
+261	when did mount st. helen last have a significant eruption ?	when
+262	cnn is the abbreviation for what ?	what
+263	when did world war i start ?	when
+264	how many feet are there in a fathom ?	unknown
+265	what is a canada two-penny black ?	what
+266	what european city do nicois live in ?	what
+267	how can i find out what year a beanie baby was introduced ?	unknown
+268	what is the classic definition of tragic hero ?	what
+269	to what does microsoft 's windows 3 owe its success ?	what
+270	who was president of afghanistan in 1994 ?	who
+271	what are other ways of getting stretch marks besides pregnancy , weight loss , and weight lifting ?	what
+272	what did brontosauruses eat ?	what
+273	what color bottles do good rhine wines come in ?	what
+274	who was the lead actress in the movie ` sleepless in seattle ' ?	who
+275	who was the 16th president of the united states ?	who
+276	who are the two sons of ozzie and harriet nelson ?	who
+277	what is molybdenum ?	what
+278	when is boxing day ?	what
+279	what is the lowest level of the american judiciary ?	what
+280	when was the battle of the somme fought ?	when
+281	how many people did randy craft kill ?	unknown
+282	what 's the official animal of canada ?	what
+283	when did spielberg direct `` jaws '' ?	when
+284	what is the size of the largest akita ?	what
+285	what animal has the biggest eyes ?	what
+286	what is california 's capital ?	what
+287	who was the author of the book about computer hackers called `` the cuckoo 's egg : tracking a spy through the maze of computer espionage '' ?	who
+288	who was the founding member of the pink floyd band ?	who
+289	what european country is home to the beer-producing city of budweis ?	what
+290	how do i find the balance of my social security account ?	unknown
+291	what is the history of valentine 's day cards ?	what
+292	where was christopher columbus born ?	unknown
+293	what do italians call florence ?	what
+294	how do you get to the top of the eiffel tower ?	unknown
+295	what does ` psi ' stand for ?	what
+296	what sea did the romans call mare nostrum ?	what
+297	what 's the term for a bet before cards are dealt ?	what
+298	which came first , according to genesis 1 : 2 : 22 - the chicken or the egg ?	unknown
+299	what city did the flintstones live in ?	what
+300	what is latin for incompetent ?	what
+301	what chemicals are used in lethal injection ?	what
+302	what toy company is the world 's no.1 maker of female apparel ?	what
+303	what board game does a `` wood-pusher '' play poorly ?	what
+304	which doonesbury character was likely to turn into a werewolf ?	unknown
+305	what is the abbreviation for micro ?	what
+306	what are the 7 articles of the constitution ?	what
+307	who has won the most super bowls ?	who
+308	what does nasdaq stand for ?	what
+309	what is bph ?	what
+310	what is the fastest commercial automobile that can be bought in the us ?	what
+311	what stadium do the miami dolphins play their home games in ?	what
+312	who has the only speaking role in `` silent movie '' ?	who
+313	why is poop sometimes different colors ?	unknown
+314	what was einstein 's iq ?	what
+315	what day was pearl harbor attacked in 1942 ?	what
+316	what girl 's name is `` teddy '' an affectionate form of ?	what
+317	what state is john f. kennedy buried in ?	what
+318	what is the best way to remove wallpaper ?	what
+319	what u.s. state has an element named for it ?	what
+320	what company tabulates the ballots in voting for the academy awards ?	what
+321	how did the tradition of best man start ?	unknown
+322	how many years ago did the ship titanic sink ?	unknown
+323	what is the deepest area of the arctic ocean ?	what
+324	what are halloween 's colors ?	what
+325	how is silk screening done ?	unknown
+326	what is the latitude and longitude of el paso , texas ?	what
+327	who made a boat out of gopher wood ?	who
+328	where can i find a `` fifth element '' screensaver ?	unknown
+329	which bloom county resident wreaks havoc with a computer ?	unknown
+330	how do you match a name to a social security number ?	unknown
+331	how does a rainbow form ?	unknown
+332	what is the normal resting heart rate of a healthy adult ?	what
+333	what is the population of ohio ?	what
+334	how many calories are there in a big mac ?	unknown
+335	hazmat stands for what ?	what
+336	what creature scares people in the film `` jaws '' ?	what
+337	what part did john peter zenger play in the deveopment of the newspaper in america ?	what
+338	who followed caesar ?	who
+339	what are the four elements ?	what
+340	who was the first woman golfer to earn a million ?	who
+341	what 's the tallest piece on a chessboard ?	what
+342	what is answers.com 's address ?	what
+343	where can i buy movies on videotape online ?	unknown
+344	who does the advertizing for frito-lay ?	who
+345	who is the leading competitor of trans union company ?	who
+346	what product did robert conrad dare people to knock off his shoulder ?	what
+347	who invented the radio ?	who
+348	what 's the american dollar equivalent for 8 pounds in the u.k. ?	what
+349	what are the different approaches of systems analysis ?	what
+350	how do doctors diagnose bone cancer ?	unknown
+351	who is the man behind the pig-the man who pulls the strings and speaks for miss piggy ?	unknown
+352	what is the speed of the mississippi river ?	what
+353	what are the developmental stages of a swimmer ?	what
+354	what actor first portrayed james bond ?	what
+355	what ocean is the largest in the world ?	what
+356	who was the first american poet to win the nobel prize for literature , in 1948 ?	who
+357	what year did jack nicklaus join the professional golfers association tour ?	what
+358	how many sonnets did shakespeare write ?	unknown
+359	what causes the redness in your cheeks when you blush ?	what
+360	who won the nobel peace prize in 1991 ?	who
+361	who are the challengers of the unknown ?	who
+362	define the pheonix club ?	unknown
+363	which city did christian crusaders fight to recapture from the muslims ?	unknown
+364	what does it mean `` rupee depreciates '' ?	what
+365	what gaming devices were dubbed `` mississippi marbles '' and `` memphis dominoes '' ?	what
+366	who was the first coach of the cleveland browns ?	who
+367	how successful is arometherapy ?	unknown
+368	what jewish holiday saw the start of the 1973 mideast war ?	what
+369	how does a copier work ?	unknown
+370	what is the speed of the mississippi river ?	what
+371	who said of super bowl iii in 1969 : `` we 'll win- i guarantee it '' ?	who
+372	what is dudley do-right 's horse 's name ?	what
+373	who declared : `` i am down on whores and i shan 't stop ripping them '' ?	who
+374	where does chocolate come from ?	unknown
+375	what tv game show once saw a contestant admit to picking his toes in the shower ?	what
+376	what soviet leader owned a rolls-royce ?	what
+377	where can i find a case on individuals with disabilities education act of 1991 ?	unknown
+378	what war did florence nightingale tend the troops in ?	what
+379	who wrote the song , `` stardust '' ?	who
+380	how many beatles ' records went #1 ?	unknown
+381	who is the only prime minister of canada to serve 22 years but not necessarily consecutively ?	who
+382	what is the abbreviation of the company name ` general motors ' ?	what
+383	what mountains lie between the arkansas and missouri rivers ?	what
+384	who received the will rogers award in 1989 ?	who
+385	what is the function of ram ?	what
+386	what 's the closest g2 spectrum yellow dwarf to earth ?	what
+387	how many equal angles are there in an isosceles triangle ?	unknown
+388	what is the fear of cockroaches called ?	what
+389	what cbs soap opera was interrupted by the bulletin of john f. kennedy 's assassination ?	what
+390	what is the use of a 24-hour clock instead of a 12-hour clock ?	what
+391	what was the name of the lawyer who represented randy craft ?	what
+392	what united states president had dreamed that he was assassinated ?	what
+393	what film did lee marvin win the 1965 best actor oscar for ?	what
+394	where is basque country located ?	unknown
+395	what product does `` mrs. olsen '' promote ?	what
+396	what time of day did emperor hirohito die ?	when
+397	what is dry ice ?	what
+398	what 's the most powerful card in euchre ?	what
+399	what does `` intractable plantar keratoma '' mean ?	what
+400	how many years did it take james joyce to write ulysses ?	unknown
+401	what crop failure caused the irish famine ?	what
+402	what south korean city is served by kimpo international airport ?	what
+403	how many types of dogs ' tails are there - three ?	unknown
+404	what is the longest-running television series ?	what
+405	what predators exist on antarctica ?	what
+406	what is the difference between a generator and an alternator ?	what
+407	how is energy created ?	unknown
+408	what beer advertised that it had `` three rings '' ?	what
+409	what is the quantity of american soldiers still unaccounted for from the vietnam war ?	what
+410	what golfing accessory was patented by george grant on december 12 ?	what
+411	what are the different types of plastic ?	what
+412	how is it correct to say ` qigong ' ?	unknown
+413	what was the highest mountain on earth before mount everest was discovered ?	what
+414	where was the ligurian republic , 1797-185 , ?	unknown
+415	what country 's people are the top television watchers ?	what
+416	when was the women 's suffrage amendment ratified ?	when
+417	what polynesian people inhabit new zealand ?	what
+418	what movie tour of the roman empire features the admonition : `` row well and live '' ?	what
+419	what nevada center has been dubbed the biggest little city in the world ?	what
+420	what president lived at 219 north delaware street , independence , missouri ?	what
+421	give a reason for american indians oftentimes dropping out of school . ?	unknown
+422	where must a soccer goalie stand to be permitted to handle the ball ?	unknown
+423	what is the difference between classical conditioning and operant conditioning ?	what
+424	in what u.s. state was the first woman governor elected ?	unknown
+425	what are some interesting facts and information about dogsledding ?	what
+426	what year did hitler die ?	when
+427	what famous model was married to billy joel ?	what
+428	what kind of animal is babar ?	what
+429	what is jane goodall known for ?	what
+430	what killed bob marley ?	what
+431	how much money are dumbo 's ears insured for ?	unknown
+432	who danced into stardom with fred astaire in 1941 's you 'll never get rich ?	who
+433	who is stein eriksen ?	who
+434	what does the name billie mean ?	what
+435	who is the fastest swimmer in the world ?	who
+436	what is the highest peak in africa ?	what
+437	where is procter & gamble headquartered in the u.s. ?	unknown
+438	what desert has been called the garden of allah ?	what
+439	what do bicornate animals have two of ?	what
+440	what function does a community 's water tower serve ?	what
+441	what is a fear of weakness ?	what
+442	how many miles is it to ohio from north carolina ?	unknown
+443	how much snow equals an inch of rain ?	unknown
+444	what does g.m.t. stand for ?	what
+445	what does inuit and eskimo mean ?	what
+446	what song served as the closing theme of the johnny cash show ?	what
+447	what field sport did dentist william beers promote and write a standard book of rules for ?	what
+448	how do i tie dye clothes ?	unknown
+449	when does the average teenager first have intercourse ?	when
+450	why doesn 't www.answers.com have any answers to my questions ?	unknown
+451	what actor 's autobiography is titled all my yesterdays ?	what
+452	what russian master spy lived in the u.s. under the name emil goldfus ?	what
+453	where 's the 19th hole on a golf course ?	unknown
+454	what 's nature 's purpose for tornadoes ?	what
+455	who played the original charlie 's angels ?	who
+456	where can i find a person 's address from a telephone number ?	unknown
+457	what english word comes from the old french covrefeu , meaning cover fire ?	what
+458	what musical instrument did prewitt play in james jones 's from here to eternity ?	what
+459	where did sarge steel get his metal hand ?	unknown
+460	what makes popcorn pop ?	what
+461	who wrote the night of the iguana ?	who
+462	where does your hair grow the fastest ?	unknown
+463	what country did king gustav v reign over from 197 to 195 ?	what
+464	who painted mother and child ?	who
+465	what is the speed of the mississippi river ?	what
+466	in what area of the world was the six day war fought ?	what
+467	what is the brightest star visible from earth ?	what
+468	what film marked robert redford 's directorial debut ?	what
+469	what was mao 's second name ?	what
+470	what film or films has jude law appeared in ?	what
+471	where do hyenas live ?	unknown
+472	who is the `` queen mother '' ?	who
+473	what 's the most commonly-spoken language in belgium ?	what
+474	who has more dna - a man or a woman ?	who
+475	what are maid-rites ?	what
+476	what children 's tale contains the line : `` come , cinderslut , and hold this skein of wool for me '' ?	what
+477	what level of government or governmental agency is responsible for dealing with racism ?	what
+478	how many referees work a soccer game ?	unknown
+479	what cocktail do you concoct with whisky and sweet vermouth ?	what
+480	how do you say `` fresh '' in spanish ?	unknown
+481	what do bee hives do in cranberry bogs ?	what
+482	what caused the lynmouth floods ?	what
+483	when is the tulip festival in michigan ?	what
+484	who came up with the name , el nino ?	who
+485	what movie did madilyn kahn star in with gene wilder ?	what
+486	what type of bridge is the golden gate bridge ?	what
+487	what dictator has the nickname `` el maximo '' ?	what
+488	what stereo manufacturer is `` slightly ahead of its time '' ?	what
+489	what u.s. city is the queen of the pacific ?	what
+490	what tv sitcom character had the maiden name ethel potter ?	what
+491	what was the first lifesaver flavor ?	what
+492	who kept the most famous diary in the english language ?	who
+493	where can i find out the top 1 singles ?	unknown
+494	how many degrees cooler is the inside of a cucumber than the air outside ?	unknown
+495	what spanish artist painted crucifixion ?	what
+496	what is the jewish bible called ?	what
+497	why is the grass green ?	unknown
+498	what is a firewall ?	what
+499	what spy novelist served as moscow correspondent for reuter and the times of london ?	what
+500	which oil company almost picked a word that meant `` stalled car '' in japanese as its new international name ?	unknown
+501	how long does it take for spider-man 's web to evaporate ?	unknown
+502	who was randy steven craft 's lawyer ?	who
+503	what was known as the spice island ?	what
+504	who was the first host of person to person ?	what
+505	name the ranger who was always after yogi bear . ?	unknown
+506	what deck of cards includes the wheel of fortune , the lovers , and death ?	what
+507	what does the statue of liberty wear on her feet ?	what
+508	who is the superstar in rent-a-cars ?	who
+509	mccarren airport is located in what city ?	what
+510	what household facility contains a float ball , ballcock , and overflow tube ?	what
+511	what was the name of betty boop 's dog ?	what
+512	what fraction of a beaver 's life is spent swimming ?	what
+513	what was the bridge of san luis rey made of ?	what
+514	what do economists do ?	what
+515	what country has the largest sheep population ?	what
+516	what do i need to do to take my dog with me to live in dominica , west indies for a year ?	what
+517	what country is the world 's largest importer of cognac ?	what
+518	how many years is johnnie walker black label aged ?	unknown
+519	what does sids stand for ?	what
+520	what is grenada 's main commodity export ?	what
+521	how much would a black-and-white 1-cent stamp be worth , thomas jefferson on it , ?	unknown
+522	what makes a clitoris sensitive ?	what
+523	what country has the most time zones , with 11 ?	what
+524	what `` magic '' does mandrake employ ?	what
+525	who is the president of stanford university ?	who
+526	whose first presidential order was : `` let 's get this goddamn thing airborne '' ?	unknown
+527	what was introduced commercially by bayer a.g. of leverkusen , in 1899 ?	what
+528	what city is logan airport in ?	what
+529	what is a nanometer ?	what
+530	how many innings are there in a regulation softball game ?	unknown
+531	when did cnn go on the air ?	when
+532	what is the largest city on the great lakes ?	what
+533	what is the telephone number for the university of kentucky ?	what
+534	who invented baseball ?	who
+535	how many wives did brigham young have ?	unknown
+536	what product on the market is good for hiding facial scars ?	what
+537	how long is the coney island boardwalk ?	unknown
+538	what city gained renown for its pea-soup fogs ?	what
+539	what does `` janelle '' mean ?	what
+540	how do i get another city 's newspaper ?	unknown
+541	name a movie about the sioux indians starring kevin costner . ?	unknown
+542	who was shot in the back during a poker game in deadwood , the dakota territory ?	who
+543	what are the distinct physical characterstics of the arabian horse ?	what
+544	what is a fear of thunder ?	what
+545	what animal has killed the most people ?	what
+546	how many colleges are in wyoming ?	unknown
+547	what russian seaport has a name meaning `` lord of the east '' ?	what
+548	where can stocks be traded on-line ?	unknown
+549	when was the battle of hastings ?	when
+550	what kind of file has the extension .dbf ?	what
+551	when did muhammad live ?	when
+552	what then-derogatory term was applied to the painters monet , sisley , pissarro , renoir and degas ?	what
+553	what is a wop ?	what
+554	where do rocks come from ?	unknown
+555	how do i stop background noise in a car stereo ?	unknown
+556	where do people mountain climb in nepal ?	unknown
+557	what is the best college in the country ?	what
+558	what is viscosity ?	what
+559	what was the name of the sitcom that alyssa milano starred in with tony danza ?	what
+560	what are the nordic nations ?	what
+561	where on the internet can i get information about the fifth amendment on the american bill of rights ?	unknown
+562	what u.s. state borders illinois to the north ?	what
+563	name a film in which jude law acted . ?	unknown
+564	what is the temperature for baking peachy oat muffins ?	what
+565	what is a fear of bees ?	what
+566	what vladimir nabokov novel features professor humbert in love with a 12-year-old girl ?	what
+567	what is a green bog ?	what
+568	where did the myth of santa claus originate ?	unknown
+569	what does a chairbound basophobic fear ?	what
+570	what city is served by logan international airport ?	what
+571	what wrestling star became `` the incredible hulk '' ?	what
+572	what attracts tourists to reims ?	what
+573	what game do steve mcqueen and edward g. robinson play in the cincinnati kid ?	what
+574	what fastener did whitcomb judson patent in 1893 ?	what
+575	what 's an auberge in france ?	what
+576	who was the star of the 1965 broadway hit golden boy ?	what
+577	where is procter & gamble based in the u.s. ?	unknown
+578	what army was founded by william booth and his wife catherine ?	what
+579	what does ribavirin consist of ?	what
+580	name the soft drink that is `` number one in the sun . '' ?	unknown
+581	what is the web address of the list of e-mail addresses of members of the house of representatives ?	what
+582	what was her real name ?	what
+583	why are the ears your center of balance ?	unknown
+584	who invented the toothbrush ?	who
+585	what was the name of that popular song the creeps sang ?	what
+586	where is the abominable snowman said to wander ?	unknown
+587	what is a fear of being alone ?	what
+588	how many dots make up the symbol for `` because '' ?	unknown
+589	what do you get by adding lactobacillus bulgaricus to milk ?	what
+590	when reading classified ads , what does eenty : other stand for ?	when
+591	how many hearts does an octopus have ?	unknown
+592	what plant has the largest seed ?	what
+593	what was the only country you were allowed to drive into israel from in 1979 ?	what
+594	what 's approaching when a cyclist shouts : `` oil '' ?	what
+595	what baseball star turned down a $1 , 000-a-year contract because he felt he had n't earned it ?	what
+596	what kind of sport is often associated with hooligans ?	what
+597	what video game hero do some of his fans call chomper ?	what
+598	how many holes are there in a tenpin bowling ball ?	unknown
+599	what is the longest word in the english language ?	what
+600	in what city or state do the most gay men live in ?	what
+601	what tv comediennes 's characters include former movie star nora desmond , secretary mrs. wiggins and a housewife named eunice ?	what
+602	what is `` the bear of beers '' ?	what
+603	name the operating system that runs on ibm-compatible machines . ?	unknown
+604	what does the name `` justin '' mean ?	what
+605	what percentage of the body is muscle ?	what
+606	what color of dry wine should be served with veal roasts and chops ?	what
+607	what is a golf ball made of ?	what
+608	what is the amish religion ?	what
+609	what does an average daycare provider get paid in new england ?	what
+610	what was the name of the 187s irish terrorist group in pennsylvania mining areas ?	what
+611	who played the ringo kid in the 1939 film stagecoach ?	who
+612	who died 1 feet from where john f. kennedy did ?	who
+613	what is the `` coppertop '' battery ?	what
+614	what sign is the water carrier the zodiacal symbol for ?	what
+615	what animals do you find in the stock market ?	what
+616	what is color ?	what
+617	when is the site www.questions.com going to open ?	when
+618	what did shostakovich write for rostropovich ?	what
+619	what first name was nipsy russell given at birth ?	what
+620	how can i get some free technical information on electric vehicle ?	unknown
+621	who is the youngest of the beatles ?	who
+622	how did shipyard inspector james j. kilroy designate equipment as being satisfactory ?	unknown
+623	what is a jellicle cat ?	what
+624	where can i find the best free evidence for debate about russia ?	unknown
+625	what is bill gates of microsoft e-mail address ?	what
+626	what is the second hardest substance ?	what
+627	why did several san diego schools stop serving apples to students ?	unknown
+628	what russian city boasts the hermitage museum ?	what
+629	when is bastille day ?	when
+630	what makes a tornado turn ?	what
+631	how many shots can a stock m16 hold ?	unknown
+632	what two colors are you blind to if you suffer from protanopia ?	what
+633	why do n't you guys have some sort of contest where you ask a question and whoever finds the answers wins a prize ?	unknown
+634	who is coronado ?	who
+635	what was the name of the movie that starred sharon stone and arnold schwarzenegger ?	what
+636	what is artificial intelligence ?	what
+637	what do flatfish eat ?	what
+638	who was the first holy roman emperor ?	who
+639	what can i use to remove the stubborn gummed labels from some diskettes ?	what
+640	what day of the week sees the most fatal car accidents ?	what
+641	what is the origin of the word , magic ?	what
+642	what sport do you shag flies in ?	what
+643	what is white chocolate ?	what
+644	where is trinidad ?	unknown
+645	name the organization that is presided by a security council .	unknown
+646	who graced the airwaves with such pearls as `` do ya lo-o-ove me ? get naked , baby ! '' ?	who
+647	what kind of wine is spumante ?	what
+648	who portrayed portly criminologist carl hyatt on checkmate ?	what
+649	how do you say i love you in spanish ?	unknown
+650	what does the name gina mean ?	what
+651	what is the most advanced handheld calculator in the world ?	what
+652	how fast is light ?	unknown
+653	what is the belt of low pressure around the equator called ?	what
+654	what are shooting stars ?	what
+655	whom did the chicago bulls beat in the 1993 championship ?	unknown
+656	when was the first american encyclopedia published ?	when
+657	what 's the tallest building in new york city ?	what
+658	how is easter sunday 's date determined ?	unknown
+659	what is the motto for the state of maryland ?	what
+660	who is desmond tutu ?	who
+661	where can i find information on the narragansett indians and other tribes in rhode island ?	unknown
+662	name a tiger that is extinct .	unknown
+663	how many quarters equal a pound ?	unknown
+664	what kind of books does fodor 's publish ?	what
+665	what are the first names of rowan and martin , the stars of tv 's laugh-in ?	what
+666	what chapter of the bible has the most verses ?	what
+667	who is the worst us president ever ?	who
+668	what asian leader was known as the little brown saint ?	what
+669	what is the abbreviated expression for the national bureau of investigation ?	what
+670	how fast does the fastest car go ?	unknown
+671	what is the highest mountain in the world ?	what
+672	what arch can you see from the place de la concorde ?	what
+673	who sings the song `` drink to me with thine eyes '' by ben johnson ?	who
+674	how long should a person wash their hands before they are clean ?	unknown
+675	which way do you turn your bic to increase the flame - clockwise or counterclockwise ?	unknown
+676	which is the wealthiest country in the world ?	unknown
+677	how can i find a phone number of someone if i only know their email address ?	unknown
+678	how can you contact play producers and promoters on-line ?	unknown
+679	who is the monarch of the united kingdom ?	who
+680	what is a fear of passing high objects ?	what
+681	what do players try to do when the music stops in a game of musical chairs ?	what
+682	what are the top ten most common girl names in the us ?	what
+683	why is black the color of mourning in the west ?	unknown
+684	what is the rarest coin ?	what
+685	what judith rossner novel was made into a film starring diane keaton ?	what
+686	which country is australia 's largest export market ?	unknown
+687	where is the kentucky horse park located ?	unknown
+688	what is a fear of parasites ?	what
+689	in what olympic games did nadia comaneci become popular ?	unknown
+690	who does data collection in tourism ?	who
+691	what was the name of the daughter of the virginia chief powhatan that married john rolfe ?	what
+692	what is the leading pecan and peanut growing state ?	what
+693	what does a nihilist believe in ?	unknown
+694	what did richard feynman say upon hearing he would receive the nobel prize in physics ?	unknown
+695	in what sport are these following numbers relevant : 118 , 126 , 134 , 142 , 15 , 158 , 167 , 177 , and 19 ?	unknown
+696	who were the four famous founders of united artists ?	who
+697	what 2 statues did france give to other countries ?	what
+698	what are amphibians ?	what
+699	how many sperm cells are in an average ejaculation ?	unknown
+700	name the disposable razor that `` costs about 19 cents . ''	unknown
+701	how far do you have to run if you hit a home run ?	unknown
+702	who was the only u.s. president to wear a nazi uniform ?	who
+703	woodrow wilson served as president of what university ?	what
+704	where are the tropical rain forest distributions ?	unknown
+705	what 's the nickname of oddsmaker jimmy snyder ?	what
+706	what is the fear of being loved ?	what
+707	what was the number of people that randy steven craft was convicted of killing ?	what
+708	what was queen victoria 's title regarding india ?	what
+709	how is a hydrogen bomb different from a nuclear bomb ?	unknown
+710	how far can a man travel in outer space ?	unknown
+711	where was lincoln assassinated ?	unknown
+712	what type of food makes you fat ?	what
+713	what is the name of the chronic neurological autoimmune disease which attacks the protein sheath that surrounds nerve cells causing a gradual loss of movement in the body ?	what
+714	what was the u.s. highway death toll in 1969 ?	what
+715	what kind of animals are dorsets , lincolns , oxfords and southdowns ?	what
+716	what are the shortest and the longest songs ever produced ?	what
+717	what letter is to the right of k on a typewriter keyboard ?	what
+718	what is the origin and the meaning of the name , `` hajo ?	what
+719	what is the plural of gulf ?	what
+720	whose autobiography is titled yes i can ?	unknown
+721	what year did the united states pass the copyright law ?	what
+722	what percentage of americans own their homes ?	what
+723	what 's the first day of the week ?	what
+724	what city was president william mckinley shot in ?	what
+725	what city has the world 's longest subway system ?	what
+726	who claimed he killed 4 , 280 buffalo as food for the crew building the kansas pacific railway ?	who
+727	what is bombay duck ?	what
+728	how many degrees cooler is the inside of a cucumber than the air outside ?	unknown
+729	what double talking `` professor '' holds a doctorate in nothing ?	what
+730	what are the five most expensive cities in the world ?	what
+731	what 19th-century writer had a country estate on the hudson dubbed sunnyside ?	what
+732	how many layers of yellow paint is a faber mongol pencil lucky enough to be sprayed with ?	unknown
+733	what is a virtual ip address ?	what
+734	what was the name of the cook on rawhide ?	what
+735	what county is chicago in ?	what
+736	what is the wingspan of a condor ?	what
+737	what facial feature typically contains about 55 hairs ?	what
+738	who was named admiral of the ocean seas and viceroy and governor general of all the islands he might discover , and also granted 10-? of all profits of his voyage .	who
+739	how can i transport files from one computer to another ?	unknown
+740	what 's the literary term for a play on words ?	what
+741	what color were their horses ?	what
+742	what does an average daycare provider get paid in new england ?	what
+743	what author landed a 468-pound marlin without harness in the early 193 's ?	what
+744	how many americans fought for the british in the american revolution ?	unknown
+745	what kind of education do i need to become a flight attendant ?	what
+746	what are the two languages of malta ?	what
+747	how many oceans are there and name them ?	unknown
+748	what happened during the blackhawk indian war of 1832 ?	what
+749	how many pairs of legs does a lobster have ?	unknown
+750	what does the latin ante mortem mean ?	what
+751	what does the name shawn mean ?	what
+752	where is the danube ?	unknown
+753	what lawyer won the largest divorce settlement , $85 million , in u.s. history for sheika dena al-farri ?	unknown
+754	what do you call a group of geese ?	what
+755	who delivered his last newscast on march 6 , 1981 ?	who
+756	how many times has `` louie , louie '' been recorded ?	unknown
+757	how is answers.com different from knowpost.com ?	unknown
+758	what is the longest place name in the u.s. ?	what
+759	what percent liked thatcher after she had been in power for a decade ?	what
+760	where does buzz aldrin want to build a permanent , manned space station ?	unknown
+761	what was mel gibson 's first movie ?	what
+762	why was the l.a. office of shea and gould closed ?	unknown
+763	how do i start a bank ?	unknown
+764	how do ouija boards work ?	unknown
+765	what horse did zorro ride ?	what
+766	how do you get a broken cork out of a bottle ?	unknown
+767	where can i find correct tabs for third eye blind songs ?	unknown
+768	how do you determine heating requirements for your home ?	unknown
+769	what former major-league left-handed baseball pitcher was known as `` space man '' ?	what
+770	which hair care product told us `` hate that gray , wash it away '' ?	unknown
+771	why did the chicken cross the road ?	unknown
+772	what was michelangelo 's last name ?	what
+773	who is barbara jordan ?	who
+774	who was the democratic nominee in the american presidential election ?	who
+775	what was connecticut 's first constitution called ?	what
+776	what historical event happened in dogtown in 1899 ?	what
+777	what is being done about the millennium bug ?	what
+778	what was the claim to fame of king camp gillette ?	what
+779	what is the most common kind of skin cancer in the u.s. ?	what
+780	what is olestra ?	what
+781	what asian country has a bill of rights for cows ?	what
+782	how many fingers are used to draw a bow ?	unknown
+783	what are two plants that clothes are made from ?	what
+784	when was hurricane hugo ?	what
+785	what is the most heavily caffeinated soft drink ?	what
+786	what president-to-be was the first member of congress to enlist following the attack on pearl harbor ?	what
+787	what was the price of varian associates ' vacuum products division ?	what
+788	when was `` the great depression '' ?	what
+789	what language is mostly spoken in brazil ?	what
+790	what college produced the most winning super bowl quarterbacks ?	what
+791	how do you solve `` rubik 's cube '' ?	unknown
+792	what is prepared mustard ?	what
+793	what classical spanish writer warned : `` all that glitters is not gold '' ?	what
+794	what does `` antidisestablishmentarianism '' mean ?	what
+795	what actor married john f. kennedy 's sister ?	what
+796	what does a topophobic actor suffer from ?	what
+797	who fired maria ybarra from her position in san diego council ?	who
+798	the italian artist , maurizio pellegrin , is how old ?	unknown
+799	what type of hunting are retrievers used for ?	what
+800	what is colin powell best known for ?	what
+801	who was the first black golfer to tee off in the masters ?	who
+802	what city is the setting for puccini 's opera la boheme ?	what
+803	what u.s. president showed a fondness for munching on bee pollen bars ?	what
+804	what is measured in curies ?	what
+805	whose cover is that of an employee of universal import and export ?	unknown
+806	what former president 's daughter has written a book titled murder in the white house ?	what
+807	what fictional character is known as the `` melancholy dane '' ?	what
+808	italy is the largest producer of what ?	what
+809	what longtime game show host dropped dead while jogging in central park in 1984 ?	what
+810	what is the meaning of w.b. yeat 's poem , `` the three hermits ?	what
+811	who were the `` filthiest people alive ?	who
+812	what infectious disease is the world 's deadliest ?	what
+813	what is spumante ?	what
+814	in what year did ireland elect its first woman president ?	what
+815	what is an isthmus ?	what
+816	what was the name of the orca that died of a fungal infection ?	what
+817	where is mozambique located ?	unknown
+818	what is mississippi 's state animal ?	what
+819	what 's the origin of the word ` news ' ?	what
+820	what did dan aykroyd and john belushi quit saturday night live to become ?	what
+821	how many months does a normal human pregnancy last ?	unknown
+822	how do fuel injectors work ?	unknown
+823	how can your school march in the macy 's thanksgiving parade ?	unknown
+824	what is the real name of disc jockey `` wolfman jack '' ?	what
+825	what italian liner was hijacked in 1985 ?	what
+826	what city houses the u.s. headquarters of procter and gamble ?	what
+827	what soap was touted as being `` for people who like people '' ?	what
+828	how much was the minimum wage in 1991 ?	unknown
+829	what does nafta stand for ?	what
+830	who invented silly putty ?	who
+831	what new middle school was built in philadelphia , pennsylvania last year ?	what
+832	who patented the first phonograph ?	who
+833	what are some tips for building a fire in a fireplace ?	what
+834	what do manatees eat ?	what
+835	how do you say 2 in latin ?	unknown
+836	what were popular songs and types of songs in the 1920s ?	what
+837	how many vietnamese were there in the soviet union ?	unknown
+838	what is november 's birthstone ?	what
+839	what is a certified nurse midwife ?	what
+840	on average , how many miles are there to the moon ?	unknown
+841	who created private detective philip marlowe ?	who
+842	what boris pasternak book sold 5 , 0 copies to become the fiction best-seller of 1958 ?	what
+843	what is the origin of the expression `` tout de suite '' ?	what
+844	what is the longest english word ?	what
+845	what is the purpose of a car bra ?	what
+846	what is d.b. cooper known for ?	what
+847	who is colin powell ?	who
+848	what species is a colt ?	what
+849	what is the full name of the plo ?	what
+850	what is the smallest country in africa ?	what
+851	who coined the term nn cyberspace `` in his novel nn neuromancer '' ?	who
+852	what age followed the bronze age ?	what
+853	what is her profession ?	what
+854	what is the full name of the man who invented the multicolored game cube that has 42.3 quintillion potential combinations ?	what
+855	what does the word laser mean ?	what
+856	what does the name `` anthony '' mean ?	what
+857	who was lauren bacall 's first husband ?	who
+858	what is a rhomboideus minor ?	what
+859	how many hands does bjorn borg use when hitting his forehand ?	unknown
+860	how many people died on d-day ?	unknown
+861	what u.s. congressman said : `` keep the faith , baby '' .	what
+862	who created the character of scrooge ?	who
+863	what is the student population at the university of massachusetts in amherst ?	what
+864	where is windsor castle ?	unknown
+865	when did the dow first reach ?	when
+866	why were people recruited for the vietnam war ?	unknown
+867	what party was winston churchill a member of ?	what
+868	what american league baseball team 's worst finish between 1926 and 1964 was fourth ?	what
+869	where can i find the names of all the 15 pokemon ?	unknown
+870	what state does martha stewart live in ?	what
+871	which killer whale died at sea world of a fungal infection ?	unknown
+872	what are the benelux countries ?	what
+873	where 's the petrified forest ?	unknown
+874	what is a language spoken by the sioux ?	what
+875	where is tornado alley ?	unknown
+876	who was the author of `` john brown 's body '' ?	who
+877	what american poet wrote : `` good fences make good neighbors '' ?	what
+878	what state in the u.s. has the most blacks ?	what
+879	why are electric cars less efficient in the northeast than in california ?	unknown
+880	what was the occupation of mandy rice-davies ?	what
+881	what is the city in which maurizio pellegrin lives called ?	what
+882	who painted the sistine chapel ?	who
+883	name the various costumed personas of dr. henry pym .	unknown
+884	what breed of dog was the `` little rascals '' dog ?	what
+885	what are the living conditions in cuba ?	what
+886	what color are school buses ?	what
+887	what is the oldest website on the internet ?	what
+888	what events happened january 26 , 1978 ?	what
+889	what explorers followed columbus to the americas ?	what
+890	who is actress goldie hawn 's current actor boyfriend ?	who
+891	who banned peter rose from baseball for betting on games ?	who
+892	what are the seven virtues ?	what
+893	what other name were the `` little rascals '' known as ?	what
+894	when was the san francisco fire ?	when
+895	what is a fear of food ?	what
+896	how many casinos are in atlantic city , nj ?	unknown
+897	what year did the vietnam war end ?	what
+898	what are the names of richard nixon 's two daughters ?	what
+899	what 's the word for broken glass or sharp rocks embedded in cement on top of a wall ?	what
+900	what is the chromosome number of an elephant ?	what
+901	what organization was founded by the rev. jerry falwell ?	what
+902	what 's the longest river in the world ?	what
+903	which soft drink does madonna advertise for ?	unknown
+904	what company is being bought by yahoo and how much is the deal worth ?	what
+905	when was berlin 's brandenburg gate erected ?	when
+906	how many double-word-score spaces are there on a scrabble crossword game board ?	unknown
+907	what year did germany sign its nonaggression pact with the soviet union ?	what
+908	what mountain range is traversed by the highest railroad in the world ?	what
+909	why were the american soldiers in wwi called `` doughboys ''	unknown
+910	who was nicknamed the little corporal ?	who
+911	how many cds has garth brooks sold ?	unknown
+912	name the vessel used by the atari force in the dc comics .	unknown
+913	where are the leading medical groups specializing in lung diseases ?	unknown
+914	how can i find online spelling , and punctuation drills for my 6th grader ?	unknown
+915	what 's the sacred river of india ?	what
+916	what is stefan edberg 's native country ?	what
+917	what is the only gland in humans that can regenerate itself ?	what
+918	how many gutenberg bibles are there ?	unknown
+919	name the largest country in south america .	unknown
+920	what astronomical phenomenon takes place in jan. 1999 ?	what
+921	what information can you get me on fairground park in st. louis	what
+922	what was american folk hero john chapman 's nickname ?	what
+923	what is the difference between a median and a mean ?	what
+924	what was the top box office movie in april 1998 ?	what
+925	what makes thunder ?	what
+926	what author did photographer yousuf karsh call `` the shiest man i ever met '' ?	what
+927	which is the largest clock , diameter wise , in europe ?	unknown
+928	what plant is rum made from ?	what
+929	what country are godiva chocolates from ?	what
+930	name the poet of the poem which begins : i do not know much about gods ; but i think that the river is a strong brown god-sullen , and untamed ?	unknown
+931	which condiment was once sold as a patent medicine ?	unknown
+932	what u.s. state records the least rainfall ?	what
+933	why did the world enter a global depression in 1929 ?	unknown
+934	what was archy , and mehitabel ?	what
+935	what texas city got its name from the spanish for `` yellow '' ?	what
+936	what are the chemicals used in glowsticks ?	what
+937	what country did the nile river originate in ?	what
+938	what color are tennis balls ?	what
+939	what barroom judge called himself the law west of the pecos ?	what
+940	what excuse did the nato people give for hitting the chinese embassy ?	what
+941	who was president of costa rica in 1994 ?	who
+942	what sports event is meyer wolfsheim supposed to have fixed in the great gatsby ?	what
+943	what country has the best defensive position in the board game diplomacy ?	what
+944	what two countries share the khyber pass ?	what
+945	who was chairman of the senate select committee that tried to get to the bottom of watergate ?	who
+946	what is the origin of the surname of braun ?	what
+947	what card game has variations called canfield , klondike and spider ?	what
+948	what is australia day ?	what
+949	what mammal of north america is the world 's longest-lived for its size ?	what
+950	what was the chivington massacre ?	what
+951	what actor starred in 1980 's blue lagoon , 1982 's the pirate movie and 1983 's a night in heaven ?	what
+952	how many home runs did lou gehrig have during his career ?	unknown
+953	in what city is the headquarters of sinn fein ?	what
+954	where can i find information on george bush ?	unknown
+955	who is the voice of miss piggy ?	who
+956	what is the dialogue circle in cartoons called ?	what
+957	what does the word camaro mean , from the gm car the camaro ?	what
+958	who replaced bert parks as the host of the miss america pageant ?	who
+959	how many boys play the game in winslow homer 's 1872 painting snap the whip ?	unknown
+960	what is the aim-54c phoenix ?	what
+961	when are sheep shorn ?	when
+962	what sport is chris jogis a top player of ?	what
+963	what 's the second-largest island in the world ?	what
+964	what is the definition of low island ?	what
+965	what century does captain video live in ?	what
+966	what types of water pollution are there ?	what
+967	how many astronauts manned each project mercury flight ?	unknown
+968	what soft drink would provide me with the biggest intake of caffeine ?	what
+969	what 's the name of a golf course in myrtle beach ?	what
+970	what are some of the significant historical events of the 1990s ?	what
+971	name the only extant trilogy of classical greek plays .	unknown
+972	where is logan airport ?	unknown
+973	what is the difference between neoclassical art and romanticism art ?	what
+974	who was the first person inducted into the u.s. swimming hall of fame ?	who
+975	what golfer has been called ohio fats and blobbo ?	what
+976	who murdered leno and rosemary labianca on august 1	who
+977	what is the average cost for four years of medical school ?	what
+978	what does god create in the first sentence of the bible ?	what
+979	which of the following men was not married to rita hayworth ?	unknown
+980	what is the current ticket fare from from cairo to barbados ?	what
+981	what does nn o `` mean when used as a prefix in irish surnames ?	what
+982	how do you find oxidation numbers ?	unknown
+983	what is the state nickname of mississippi ?	what
+984	what is black hills , south dakota most famous for ?	what
+985	what 1966 boob tube bomb took astronauts back to prehistoric times ?	what
+986	how many students attend the university of massachusetts ?	unknown
+987	who said , `` i shall return . '' during world war two ?	who
+988	what holidays are celebrated in ireland ?	what
+989	who portrayed etta place , companion to butch cassidey and the sundance kid ?	who
+990	what are the greek numerals ?	what
+991	what 's the name of the temple that is located near the capital city of laos ?	what
+992	what is a fear of sleep ?	what
+993	what auto race was wilbur reed the first to win three times ?	what
+994	what are the most common breeding birds in the u.s. ?	what
+995	what was organized as a confederate veterans ' social club in pulaski , in tennessee , in 1866 ?	what
+996	how do you look up criminal records on the internet ?	unknown
+997	where is the actress , marion davies , buried ?	unknown
+998	what is an example of an actual case of using the fourteenth amendment ?	what
+999	who was the charlie perfume woman ?	who
+1000	who portrayed `` rosanne rosanna-dana '' on the television show `` saturday night live '' ?	who
+1001	is there a cab available for airport?	affirmation
+1002	is it raining outside ?	affirmation
+1003	is there any pizza left ?	affirmation
+1004	is there a truck parked infront of the house ?	affirmation
+1005	what time does the flight leave ?	when
+1006	what time does the train arrive ?	when
+1007	what time do we go to the mall ?	when
+1008	what time are we leaving ?	when
+1009	what time does the president give his speech ?	when
+1010	what time do you go to the school ?	when
+1011	what time are you planning to leave ?	when
+1012	what time are you thinking of going to the dentist ?	when
+1013	what time is it right now ?	when
+1014	who was gerald ford 's vice president ?	who
+1015	who invented batteries ?	who
+1016	who did sonny liston succeed as world heavyweight boxing champion ?	who
+1017	whose video is titled shape up with arnold ?	unknown
+1018	who 's the twin brother of the greek goddess artemis ?	who
+1019	who was america 's first public enemy no. 1 ?	who
+1020	who is dear abby ?	who
+1021	who lives at 24 sussex drive , ottawa ?	who
+1022	who was monet ?	who
+1023	who was the famous door-to-door brush salesman ?	who
+1024	who is always trying to get the rent from andy capp ?	who
+1025	who did jackie kennedy commission to write the death of a president ?	who
+1026	who sought to create the great society ?	who
+1027	who said : `` soldiers win the battles and generals get the credit '' ?	who
+1028	who is the current un secretary general ?	who
+1029	who provides telephone service in orange county , california ?	who
+1030	who was lacan ?	who
+1031	who was the secretary of war in the civil war during the battle of gettysburg ?	who
+1032	who did bobby fischer beat to win the world chess championship ?	who
+1033	who lives at 39 stone canyon way ?	who
+1034	who played humpty dumpty in the 1933 film alice in wonderland ?	who
+1035	who is karenna gore , al gore 's oldest daughter , married to ?	who
+1036	who played the title role in i was a teenage werewolf ?	who
+1037	who was the inventor of the stove ?	who
+1038	who was the king who was forced to agree to the magna carta ?	who
+1039	who was made the first honorary citizen of the u.s. ?	who
+1040	who is known as `` the world 's oldest teenager '' ?	who
+1041	who was with patricia hearst the night she was kidnaped ?	who
+1042	who advised listeners to `` see the u.s.a. in your chevrolet '' ?	who
+1043	who sang about desmond and molly jones ?	who
+1044	who developed the first polio vaccine ?	who
+1045	who made the first gas engine ?	who
+1046	who sells viagra ?	who
+1047	who was darius ?	who
+1048	who did dita beard work for ?	who
+1049	who served as inspiration for the schoolteacher portrayed by robin williams in `` dead poets society '' ?	who
+1050	who is the best known villain of the 165 gunpowder plot ?	who
+1051	who killed more people , hitler or stalin ?	who
+1052	who is nicolo paganini ?	who
+1053	who portrayed dracula in hammer studios ' films ?	who
+1054	who was jean nicolet ?	who
+1055	who was the original humpty dumpty ?	who
+1056	whose cupboard was bare ?	unknown
+1057	who invented the vacuum cleaner ?	who
+1058	who does shakespeare 's antonio borrow 3 , 0 ducats from ?	who
+1059	who is the voyager project manager ?	who
+1060	who replies `` i know '' to princess leia 's confession `` i love you '' in the empire strikes back ?	who
+1061	who won the 1967 academy award for best actor ?	who
+1062	who was the first taiwanese president ?	who
+1063	who is luke skywalker 's father ?	who
+1064	who was jane goodall ?	who
+1065	who created the comic strip , `` garfield '' ?	who
+1066	who is the current prime minister and president of russia ?	who
+1067	who established a viking colony in greenland about 985 ?	who
+1068	who shot and killed himself while painting wheatfield with crows ?	who
+1069	who was the architect of central park ?	who
+1070	who were the yankee 's frequent enemies ?	who
+1071	who wrote sons and lovers ?	who
+1072	who was the star of leave it to beaver ?	who
+1073	who did richard nixon tender his resignation to ?	who
+1074	who was thucydides ?	who
+1075	who took over as conductor of the boston pops after arthur fiedler 's long reign ?	who
+1076	who is the fastest guitarist ?	who
+1077	who betrayed norway to the nazis ?	who
+1078	who took the toys donated for the doodyville orphans ' fund and kept them for himself ?	who
+1079	who were the picts ?	who
+1080	who is stationed at camp swampy in the comic strips ?	who
+1081	who wrote the look of love after viewing ursula andress ?	who
+1082	who claims to have the greatest show on earth ?	who
+1083	who invented the paper clip ?	who
+1084	whom did lauren bacall marry after her husband humphrey bogart died ?	unknown
+1085	who created the fantastic four , hulk , and thor ?	who
+1086	who is the composer of `` canon in d major '' ?	who
+1087	who was the author of the novel `` far from the madding crowd '' ?	who
+1088	who was camp david named for ?	who
+1089	who portrayed `` the man without a face '' in the movie of the same name ?	who
+1090	who won the first world series ?	who
+1091	who is samuel pickering ?	who
+1092	who was credited with saying : `` i never met a man i did n't like '' ?	who
+1093	who created big ben ?	who
+1094	who played the title role in my favorite martian ?	who
+1095	who invented the game scrabble ?	who
+1096	who is considered the first lady of the american stage ?	who
+1097	who penned : `` neither a borrower nor a lender be '' ?	who
+1098	who headed hitler 's infamous gestapo ?	who
+1099	who made the musical plea be true to your school ?	who
+1100	who made stonehenge ?	who
+1101	who 's the founder and editor of the national review ?	who
+1102	who was the first governor of west virginia ?	who
+1103	who was the first woman to fly solo across the atlantic ?	who
+1104	who started the dominos pizza chain ?	who
+1105	who is the famous movie star who also acted as sewer commissioner of provo canyon , utah ?	who
+1106	who portrayed vincent van gogh in lust for life ?	who
+1107	who was known as the time master in comic books ?	who
+1108	who is the father of the computer ?	who
+1109	who said : `` old soldiers never die ; they just fade away '' ?	who
+1110	who 's the only man to have won the olympic decathlon twice ?	who
+1111	who was the second man to walk on the moon ?	who
+1112	who is the pope ?	who
+1113	who is imam hussain ben ali whom shia people believe in ?	who
+1114	who was william henry harrison ?	who
+1115	who was the first black performer to have his own network tv show ?	who
+1116	who directed the wild bunch ?	who
+1117	who runs andy capp 's favorite pub ?	who
+1118	who invented the game bowling ?	who
+1119	who is the creator of `` the muppets '' ?	who
+1120	who asked you to do the loco-motion with her in 1962 ?	who
+1121	who made the first surfboard ?	who
+1122	who is the greek god of the sea ?	who
+1123	who was the first woman governor of wyoming ?	who
+1124	who was charles lindbergh 's wife ?	who
+1125	who sings angel eyes from the 80 's ?	who
+1126	who wrote ` hamlet ' ?	who
+1127	who was the russian ambassador to hungary during the 1956 uprising ?	who
+1128	who holds the nfl record for most touchdowns in a season ?	who
+1129	who is shirley maclaine ?	who
+1130	who wrote ` the pines of rome ' ?	who
+1131	who played for the chicago bears , houston oilers and oakland raiders in a 26-year pro football career ?	who
+1132	who leads the star ship enterprise in star trek ?	who
+1133	who won world war ii ?	who
+1134	who was garrett morgan married to ?	who
+1135	who is ishmael in moby dick ?	who
+1136	who was the conservationist who served as spokesperson for post grape nuts ?	who
+1137	who was whitcomb judson ?	who
+1138	who shoplifts ?	who
+1139	whose image is alleged to be on the shroud of turin ?	unknown
+1140	who said : `` the victor will never be asked if he told the truth '' ?	who
+1141	who is langston hughes ?	who
+1142	who wrote the book , `` the grinch who stole christmas '' ?	who
+1143	who seized power from milton obote in 1971 ?	who
+1144	who is the prophet of medina ?	who
+1145	whose funeral train traveled from washington d.c. to springfield , illinois ?	unknown
+1146	who is the queen of holland ?	who
+1147	who says , `` if you don 't look good , we don 't look good '' ?	who
+1148	who was secretary of state during the nixon administration ?	who
+1149	who is johnny carson ?	who
+1150	who painted `` soft self-portrait with grilled bacon '' ?	who
+1151	who killed caesar ?	who
+1152	who is count cinzano ?	who
+1153	who 's won the most oscars for costume design ?	who
+1154	who wrote the red badge of courage ?	who
+1155	who invented the road traffic cone ?	who
+1156	who won the battle of gettysburg ?	who
+1157	who was the captain of the tanker , exxon valdez , involved in the oil spill in prince william sound , alaska , 1989 ?	who
+1158	who is stephen hawking ?	who
+1159	what actor came to dinner in guess who 's coming to dinner ?	who
+1160	who was the first actress to appear on a postage stamp ?	who
+1161	who was the first black woman to star in the folies bergeres ?	who
+1162	who asked the musical question : `` have you ever been to electric lady land ?	who
+1163	who wrote : `` poems are made by fools like me but only god can make a tree '' ?	who
+1164	who played the part of the godfather in the movie , ` the godfather ' ?	who
+1165	who invented the wonderbra ?	who
+1166	who owns the st. louis rams ?	who
+1167	who made the most appearances in the center square on hollywood squares ?	who
+1168	who said `` the only thing we have to fear is fear itself '' ?	who
+1169	who is the sexiest women in the world ?	who
+1170	who was the supreme god of germanic religion ?	who
+1171	who 's played the most games for the new york yankees ?	who
+1172	who won the superbowl in ?	who
+1173	who directed citizen kane ?	who
+1174	whose special bear 's creator was born on january 18 , 1779 ?	unknown
+1175	who said : `` what contemptible scoundrel stole the cork from my lunch ? ''	who
+1176	who was the author of the famous fairy tale `` snow white and seven dwarfs '' ?	who
+1177	who is behind the name of the harvey wallbanger drink ?	who
+1178	who is the premier of china ?	who
+1179	who was the president of vichy france ?	who
+1180	whose kidnaping was termed the crime of the century ?	unknown
+1181	who first broke the sound barrier ?	who
+1182	who was scrooge 's dead partner in dickens 's a christmas carol ?	who
+1183	who recorded the 1957 hit tammy ?	who
+1184	who is mia farrow 's mother ?	who
+1185	who was the only president to serve two nonconsecutive terms ?	who
+1186	who reports the weather on the `` good morning america '' television show ?	who
+1187	who sent the brief message `` i came , i saw , i conquered '' ?	who
+1188	who are the nomadic hunting and gathering tribe of the kalahari desert in africa ?	who
+1189	who won a pulitzer prize for his novel the caine mutiny ?	who
+1190	who portrayed sherlock holmes in 14 films between 1939 and 1946 ?	who
+1191	who claimed to be the world 's most perfectly-developed man ?	who
+1192	who portrayed carl bernstein in all the president 's men ?	who
+1193	who was tiny tim 's father ?	who
+1194	who was bonnie blue butler 's father ?	who
+1195	who is the antichrist ?	who
+1196	who was the lawyer who represented randy steven craft ?	who
+1197	who wrote the farmer 's almanac ?	who
+1198	who was the 15th century fire-and-brimstone monk who gained control of florence but ended burnt at the stake ?	who
+1199	who was quetzalcoatl ?	who
+1200	who is the prime minister of japan ?	who
+1201	who wrote the book , `` song of solomon '' ?	who
+1202	who is the president of the spanish government ?	who
+1203	who holds the career record for the most major league home runs ?	who
+1204	who invented the stethoscope ?	who
+1205	who retired with 755 home runs to his credit ?	who
+1206	who developed potlatch ?	who
+1207	who is the actress bette davis once said she wished she looked like ?	who
+1208	when did iraqi troops invade kuwait ?	when
+1209	when was the slinky invented ?	when
+1210	when was dick clark born ?	when
+1211	when did the `` star-spangled banner '' become the national anthem ?	when
+1212	when did israel begin turning the gaza strip and jericho over to the plo ?	when
+1213	when were the olympic games in which nadia comaneci became popular played ?	when
+1214	when did fraze get his first patent for the pull-tab can ?	when
+1215	when was the triangle shirtwaist fire ?	when
+1216	when were fish first believed to be found on earth ?	when
+1217	when is president nixon 's birthday ?	when
+1218	when will the millennium officially begin ?	when
+1219	when was cnn 's first broadcast ?	when
+1220	when were camcorders introduced in malaysia ?	when
+1221	when was queen victoria born ?	when
+1222	when was yemen reunified ?	when
+1223	when did aldous huxley write , `` brave new world '' ?	when
+1224	when the tutankhamun exhibit was on display in the u.s. , what moving company transported it ?	when
+1225	when did humans first begin to write history seriously ?	when
+1226	when mighty mouse was conceived , what was his original name ?	when
+1227	when was the first flush toilet invented ?	when
+1228	when will jean aeul publish her next book ?	when
+1229	when it 's time to relax , what one beer stands clear ?	when
+1230	when was the de beers company founded ?	when
+1231	when did princess diana and prince charles get married ?	when
+1232	when was the first barbie produced ?	when
+1233	when did the jurassic period end ?	when
+1234	when was the bill of rights ratified ?	when
+1235	when was calypso music invented ?	when
+1236	when did hitler come to power in germany ?	when
+1237	when did gothic art and architecture flourish ?	when
+1238	when was the internal combustion engine developed ?	when
+1239	when do you plant winter wheat ?	when
+1240	when did nostradamus believe world war iii would begin ?	when
+1241	when was london 's docklands light railway constructed ?	when
+1242	when do mormons believe christ was born ?	when
+1243	when did theo rousseau paint the `` forest of fontaine '' ?	when
+1244	when is the thai new year ?	when
+1245	when was the g7 group of nations formed ?	when
+1246	when did they canonize the bible ?	when
+1247	when did the carolingian period begin ?	when
+1248	when superman needs to get away from it all , where does he go ?	when
+1249	when did spain and korea start ambassadorial relations ?	when
+1250	when did nixon die ?	when
+1251	when is a woman most fertile ?	when
+1252	when was the nfl established ?	when
+1253	when was richard nixon born ?	when
+1254	when is the sun closest to the earth ?	when
+1255	when did amtrak begin operations ?	when
+1256	when was john d. rockefeller born ?	when
+1257	when was the congress of vienna ?	when
+1258	when was franklin d. roosevelt stricken with polio ?	when
+1259	what singer 's theme song was when the moon comes over the mountain ?	when
+1260	when was the brandenburg gate in berlin built ?	when
+1261	when did mount st. helens last erupt ?	when
+1262	when was child labor abolished ?	when
+1263	when was the hoover dam constructed ?	when
+1264	when not adventuring on rann , what does adam strange call his profession ?	when
+1265	when was the first practical commercial typewriter marketed ?	when
+1266	when did the chernobyl nuclear accident occur ?	when
+1267	when was general manuel noriega ousted as the leader of panama and turned over to u.s. authorities ?	when
+1268	when did thatcher become prime minister ?	when
+1269	when was florida admitted into the union ?	when
+1270	who portrayed the cowardly lion in the wizard of oz ?	who
+1271	who was the first king of england ?	who
+1272	who killed kurt cobain ?	who
+1273	who created the monster in mary shelley 's novel frankenstein ?	who
+1274	who was the first man to return to space ?	who
+1275	who gave abbie hoffman his first dose of lsd ?	who
+1276	who shot billy the kid ?	who
+1277	who played sally rogers on the dick van dyke show ?	who
+1278	who is the mathematician that won the noble prize for literature in 1950 ?	who
+1279	who 's baby was sweet pea on the popeye cartoon ?	who
+1280	who did arthur h. bremer try to assassinate on may 15 , 1972 ?	who
+1281	whom did friz freleng add to the warner bros. cartoon ranks ?	unknown
+1282	who was shakespeare 's moorish general ?	who
+1283	who taught matt murdock to use his extraordinary abilities in marvel comics ?	who
+1284	who famously rode to warn the people of massachusetts that the british were coming ?	who
+1285	who commanded the french forces at the battle of orleans ?	who
+1286	who led the opposition when konrad adenauer was chancellor in germany ?	who
+1287	who turned all he touched to gold ?	who
+1288	who plays shortstop for charlie brown 's baseball team ?	who
+1289	who was the most famous food editor of the new york times ?	who
+1290	who was the last u.s. president to reinstate selective service registration ?	who
+1291	who lived on the shores of the gitchee gumee river ?	who
+1292	who is section manager for guidance and control systems at jpl ?	who
+1293	who should i call to get a tour of the new york stock exchange ?	who
+1294	who portrayed w.c. fields in the film w.c. fields and me ?	who
+1295	who built the first successful stern wheel steamboat ?	who
+1296	who was hitler 's minister of propaganda ?	who
+1297	who was the first doctor to successfully transplant a liver ?	who
+1298	who was the lawyer for randy steven craft ?	who
+1299	who is reputed to be the greatest maker of violins ?	who
+1300	who sued the dannon yougurt company for using a character named ron raider for promotion ?	who
+1301	who was the first jockey to ride two triple crown winners ?	who
+1302	who wrote brave new world ?	who
+1303	who wrote unsafe at any speed ?	who
+1304	who created the world wide web , www ?	who
+1305	who were leaders of the byzantine empire ?	who
+1306	who was the first president to appoint a woman to head a cabinet ?	who
+1307	who built the first pyramid ?	who
+1308	who is the nebbish that is marvel 's official mascot ?	who
+1309	who sang the song `` hooked on a feeling '' in the dancing baby episode of `` ally mcbeal '' ?	who
+1310	who was the columbia pictures head who forged actor cliff robertson 's name on a $1 , 000 check ?	who
+1311	who was damocles ?	who
+1312	whose biography by maurice zolotow is titled shooting star ?	unknown
+1313	who was the first american citizen awarded the albert medal of the society of arts ?	who
+1314	who founded the unification church ?	who
+1315	who invented the lawnmower ?	who
+1316	who shared a new york city apartment with roger maris the year he hit 61 home runs ?	who
+1317	who is the director of intergovernmental affairs for the san diego county ?	who
+1318	who directed the first woody woodpecker cartoon ?	who
+1319	who killed lee harvey oswald ?	who
+1320	who was red grange ?	who
+1321	who invented the fax machine ?	who
+1322	who wrote the poem that starts `` i love your lips when they 're wet with wine and red with a warm desire '' ?	who
+1323	who was santos-dumont ?	who
+1324	who is rocky 's and bullwinkle 's ever-lost friend ?	who
+1325	who is robin williams ?	who
+1326	who thought he 'd never see a poem lovely as a tree ?	who
+1327	who created `` the muppets '' ?	who
+1328	who else was considered for the role of luke skywalker when george lucas was casting for star wars ?	who
+1329	who was the king who signed the magna carta ?	who
+1330	who is the leader of india ?	who
+1331	who is the prophet that is most connected to the dead sea ?	who
+1332	who wrote `` the pit and the pendulum '' ?	who
+1333	who is the incredible hulk in reality ?	who
+1334	who are the presidents of mexico and indonesia ?	who
+1335	who played al jolson in the jolson story ?	who
+1336	who played emperor palpatine in star wars ?	who
+1337	whose husbands have included conrad hilton jr. , and michael wilding ?	unknown
+1338	who is king in alley oop 's home of moo ?	who
+1339	who invented the stock ticker in 1870 ?	who
+1340	who wrote the bible ?	who
+1341	who is henry butler ?	who
+1342	who made the first airplane ?	who
+1343	who was the first black to be head coach of a major league pro sports team ?	who
+1344	who is john macarthur , 1767-1834 ?	who
+1345	who is peter weir ?	who
+1346	who held the endurance record for women pilots in 1929 ?	who
+1347	who are woody woodpecker 's niece and nephew ?	who
+1348	who created maudie frickett ?	who
+1349	who was the first english circumnavigator of the globe ?	who
+1350	who made the largest cocaine seizure in ventura county history ?	who
+1351	who liberated 19th century sicily and naples ?	who
+1352	who appointed the chair of the federal reserve ?	who
+1353	who is samuel f. pickering ?	who
+1354	who founded the modern theory of probability ?	who
+1355	who 's the king of swing ?	who
+1356	who won the 1968 california democratic primary ?	who
+1357	who spoke the only word in mel brooks 's silent movie ?	who
+1358	who was the first russian astronaut to walk in space ?	who
+1359	who wrote ` dubliners ' ?	who
+1360	who is malaysia 's 43rd prime minister ?	who
+1361	who founded the first aerodynamics laboratory in 1912 ?	who
+1362	who said `` give me liberty or give me death '' ?	who
+1363	who invented the pull-tab opener on cans ?	who
+1364	whose acceptance speech of more than 3 minutes prompted a time limit on academy award thank-yous ?	unknown
+1365	who declared : `` i think i 'll go out and milk the elk '' ?	who
+1366	who was the actor who played sam in the movie casablanca ?	who
+1367	who makes chicken `` finger lickin '' good ?	who
+1368	who accompanied space ghost on his missions ?	who
+1369	who was israel 's first prime minister ?	who
+1370	who is desmond tutu ?	who
+1371	who was the first person to study the stars ?	who
+1372	who is the author of the book , `` the iron lady : a biography of margaret thatcher '' ?	who
+1373	who did doris day mean when she said : `` i call him ernie because he 's certainly no rock '' ?	who
+1374	who is the owner of cnn ?	who
+1375	who markets spaghetti-o 's ?	who
+1376	who co-starred with julie andrews in mary poppins ?	who
+1377	who was ezra taft benson ?	who
+1378	who is pia zadora 's millionaire husband and mentor ?	who
+1379	who was the first american world chess champion ?	who
+1380	who was the last woman executed in england ?	who
+1381	who is prince naseem hamed ?	who
+1382	who made the first airplane that could fly ?	who
+1383	who was international olympic committee chairman at the 1936 summer games ?	who
+1384	does this come with power cord and dishwasher hook up ?	affirmation
+1385	will this one work to replace the badger 1 1/3 hp ?	affirmation
+1386	is there a connection for the dish washer ?	affirmation
+1387	can these be used for gas stove burner ?	affirmation
+1388	is this for electric stoves ?	affirmation
+1389	can you bake corn bread on this without it burnding. ?	affirmation
+1390	can this be used on gas stove when making polenta which needs low heat. ?	affirmation
+1391	do these work on induction cooktops ?	affirmation
+1392	will this keep pour-over coffee carafe contents warmed atop a gas range flame ?	affirmation
+1393	can this be used on gas stove when making polenta which needs low heat. ?	affirmation
+1394	do these work on induction cooktops ?	affirmation
+1395	can more than one water source be tested ?	affirmation
+1396	does it have a colour indicator ?	affirmation
+1397	is there an expiration date on any of the tests ?	affirmation
+1398	does it test coliform/ e. coli ??	affirmation
+1399	does this test forlead ?	affirmation
+1400	could i pay 1 shipping price if you bundle it ?	affirmation
+1401	is this model for the #1855 holmes humidifier ?	affirmation
+1402	does it work with kenmore humidifier?	affirmation
+1403	do i need to tear off the black outside before i put the new filter into the machine ?	affirmation
+1404	does this filter fit the holmes hm5100 ?	affirmation
+1405	can this filter remove all mold spores ?	affirmation
+1406	is this the same bulb as the euv-13b ?	affirmation
+1407	does it fit vicks v3900 humidifier ?	affirmation
+1408	will these range replacement knobs fit a tappan electric stove ?	affirmation
+1409	do you have replacement knobs for hotpoint stove ?	affirmation
+1410	will this fit thermador (oem: bosch) older cooktop?	affirmation
+1411	does it have screens in place where the vents are to prevent lint from blowing out of the vent holes ?	affirmation
+1412	can it be used for a gas drier ?	affirmation
+1413	will the ltf lint dryer kit work on a gas dryer ?	affirmation
+1414	does it have a backlight ?	affirmation
+1415	is it possible to calibrate ?	affirmation
+1416	it's written that the dimensions are 7x7x4inches, is it right?	affirmation
+1417	is it accurate ?	affirmation
+1418	is there a lag time after you take it out of the box before it starts to work ?	affirmation
+1419	could this be used outside in a enclosed patio and work accurately throughout the seasons ?	affirmation
+1420	does this monitor read humidity levels below 16% ?	affirmation
+1421	can it be wall mounted ?	affirmation
+1422	has anyone used this on a brick driveway ?	affirmation
+1423	does this pick up dust without blowing it out the bag ?	affirmation
+1424	will this work on my astro turf sun deck for picking up bugs and leaves ?	affirmation
+1425	will this work on astro turf to pick up small bugs and leaves ?	affirmation
+1426	would this pick up pine needles on a lawn ?	affirmation
+1427	does this fit the model 89q ?	affirmation
+1428	does this filter work on all style 8 ?	affirmation
+1429	does this fit ed11 600 device ?	affirmation
+1430	are there six filters for the price shown ?	affirmation
+1431	does it fit pf sw2mdca ss ?	affirmation
+1432	will it work with gfe29hmdaes?	affirmation
+1433	is this possible ?	affirmation
+1434	can this filter be used under a sink ?	affirmation
+1435	is this antimicrobial ?	affirmation
+1436	are these lead free ?	affirmation
+1437	is this considered a "fill hose" ?	affirmation
+1438	can it be settled on a bathtub ?	affirmation
+1439	can i install on wall ?	affirmation
+1440	is this easier to pull out than the plastic stopper ?	affirmation
+1441	does this freezer automatically defrost ?	affirmation
+1442	does this come with the case ?	affirmation
+1443	does this have a cello tuner setting ?	affirmation
+1444	is this appliance quiet enough to keep in the house as a spare?	affirmation
+1445	does this protect from chemicals ?	affirmation
+1446	can show temperature in celsius degrees ?	affirmation
+1447	do they come in different sizes ?	affirmation
+1448	can this model 1 cubic handle a king size sheet set ?	affirmation
+1449	can it be installed with a copper sink ?	affirmation
+1450	does it accommodate a dishwasher ?	affirmation
+1451	can these be recycled some way ?	affirmation
+1452	which water filter cap replacement (white color) should i use for this filter ?	affirmation
+1453	does this model have the damper included for the seven inch duct ?	affirmation
+1454	can an extended warranty be purchased for this product ?	affirmation
+1455	is the freezer frost free ?	affirmation
+1456	could someone give me the dimensions ?	affirmation
+1457	are these drip pans dishwasher safe ?	affirmation
+1458	do these cooktops require 220 outlet ?	affirmation
+1459	will this work to connect a wgd9200sq0 to a wfw9150ww00 washer ?	affirmation
+1460	does it work for whirlpool duet ht - washer/dryer from 2005 ?	affirmation
+1461	does the old stack kit fit on the new washer and old dryer ?	affirmation
+1462	is this downdraft ventilation ?	affirmation
+1463	does the stainless steel trim get scratched by the cookware ?	affirmation
+1464	would this work with the whirlpool duet sports front load washer and dryers ?	affirmation
+1465	is it made in usa ?	affirmation
+1466	is the cooking grate removable ?	affirmation
+1467	can the cooking grate be removed from the ring ?	affirmation
+1468	are the last two numbers the gal ?	affirmation
+1469	can you verify the dimensions for me ?	affirmation
+1470	can this tank be used for black water ?	affirmation
+1471	can you use on a airplane ?	affirmation
+1472	will it fit a 10 ft. ceiling?	affirmation
+1473	are the lights dimmable?	affirmation
+1474	do you ship item to pr?	affirmation
+1475	can i just throw them in trash ?	affirmation
+1476	are they made in the usa ?	affirmation
+1477	do you sell an extension kit available for 10' ceilings ?	affirmation
+1478	is it loud ?	affirmation
+1479	can it be cut to fit ?	affirmation
+1480	can it be removed ?	affirmation
+1481	does this hose have one ?	affirmation
+1482	can i get it in india ?	affirmation
+1483	would this work on a 2008 ford edge with a naked roof ?	affirmation
