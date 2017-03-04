@@ -14,7 +14,7 @@ DATA_SPLIT=0.2
 LABELS = ['who', 'what', 'when', 'affirmation', 'unknown']
 
 # bow-bag of words, gwv-google wordvectors, doc2vec - custom doc2vec model trained on ~6k questions(http://cogcomp.cs.illinois.edu/Data/QA/QC/train_5500.label)
-FEATURE_EXTRACTION_MODE = 'bow'
+FEATURE_EXTRACTION_MODE = 'gwv'
 
 # rf-random forests, lsvc - Linear SVC, gnb - Gaussian Naive Bayes, knn - k-nearest neighbours, lr - logistic regression, neuralN - neural network
 CLASSIFIER_MODE = 'lsvc'
