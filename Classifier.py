@@ -35,16 +35,21 @@ class Classifier(object):
         # confusionMatrix.to_csv(appConfig.OUTPUT_FOLDER + "/" + appConfig.CLASSIFIER_MODE + "_numbers.txt", sep='\t')
 
         accuracy = accuracy_score(y_actual, y_prediction, normalize=True)
-        precisionRecalNum = precision_recall_fscore_support(self.testLabels, self.result, average='macro')
+        precision, recall, f_score, support = precision_recall_fscore_support(self.testLabels, self.result, average='macro')
 
-        print (__name__ + '\tprecisionRecalNum : ' + str(precisionRecalNum))
+        print (__name__ + '\tprecision : ' + str(precision))
+        print (__name__ + '\trecall: ' + str(recall))
+        print (__name__ + '\tf-score : ' + str(f_score))
+        print (__name__ + '\tAccuracy : ' + str(accuracy))
         outputNumbersFile = open(
             appConfig.OUTPUT_FOLDER + "/" + appConfig.OUTPUT_FILE + "_numbers.txt", 'w')
         outputNumbersFile.write('\nPredicted values counts : ' + str(y_prediction.value_counts()))
         outputNumbersFile.write('\nActual values counts : ' + str(y_actual.value_counts()))
         outputNumbersFile.write('\nConfusion Matrix : ' + str(confusionMatrix))
         outputNumbersFile.write('\nAccuracy : ' + str(accuracy))
-        outputNumbersFile.write('\nPrecision\tRecal\tf-score\tsupport : ' + str(precisionRecalNum))
+        outputNumbersFile.write('\nPrecision : ' + str(precision))
+        outputNumbersFile.write('\nRecall : ' + str(recall))
+        outputNumbersFile.write('\nf-score : ' + str(f_score))
         outputNumbersFile.close()
 
 

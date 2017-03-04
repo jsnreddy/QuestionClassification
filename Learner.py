@@ -67,8 +67,13 @@ class Learner(object):
             mlp = mlp.fit(self.trainingFeatures, self.trainingLabels)
             self.model = mlp
 
-        print(__name__ + ' Cross Validation Scores on Training ..\n' + str(
-            cross_val_score(self.model, self.trainingFeatures, self.trainingLabels, cv=10)))
+        cvScores = cross_val_score(self.model, self.trainingFeatures, self.trainingLabels, cv=appConfig.CROSS_VALIDATION_FOLDS)
+        print(__name__ + '\tCross Validation Scores on Training ..\n' + str(cvScores))
+        avgCVScore = float(sum(cvScores))/len(cvScores)
+        print(__name__ + '\tAverage Cross Validation Score on Training ..\n' + str(avgCVScore))
+        cvScoresFile = open(appConfig.OUTPUT_FOLDER + '/' + appConfig.OUTPUT_FILE + '_cvScore.txt', 'w')
+        cvScoresFile.write("Cross Validation Scores : " + str(cvScores))
+        cvScoresFile.write("\n\nAverage Cross Validation Score : " + str(avgCVScore))
 
         with open(appConfig.MODELS_FOLDER + '/' + appConfig.OUTPUT_FILE + '.pickle', 'wb') as fid:
             cPickle.dump(self.model, fid)

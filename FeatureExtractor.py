@@ -28,7 +28,7 @@ def preprocessData(inputData):
         filtered_words = [w for w in words if w not in appConfig.custom_stop_words]
         filtered_q = " ".join(filtered_words)
         preprocessedData.append(filtered_q)
-    print(__name__ + 'Preprocessed Data : ' + str(preprocessedData))
+    # print(__name__ + '\tPreprocessed Data : ' + str(preprocessedData))
     # preprocessedDataFrame = pd.DataFrame(data={'question':preprocessedData})
     # preprocessedDataFrame.to_csv('output/preprocessedData.txt')
     print(__name__ + ' : ' + 'End preprocessData()')
@@ -71,10 +71,10 @@ def getFeatures(inputData):
         # outputNumbersFile.close()
         print(__name__ + '\tfeature shape : ' + str(len(data_features)))
 
-    # if appConfig.FEATURE_EXTRACTION_MODE == 'doc2vec':
-    #     doc2vec_model = gensim.models.KeyedVectors.load_word2vec_format(appConfig.DOC2VEC_MODEL, binary=True)
-    #     print (__name__ + 'Custom doc2vec model loaded')
-    #     data_features = [doc2vec_model[question] for question in inputData]
-    #     print(__name__ + '\tfeature shape : ' + str(len(data_features)))
+    if appConfig.FEATURE_EXTRACTION_MODE == 'doc2vec':
+        doc2vec_model = gensim.models.KeyedVectors.load_word2vec_format(appConfig.DOC2VEC_MODEL, binary=True)
+        print (__name__ + 'Custom doc2vec model loaded')
+        data_features = [doc2vec_model[question] for question in inputData]
+        print(__name__ + '\tfeature shape : ' + str(len(data_features)))
 
     return data_features
