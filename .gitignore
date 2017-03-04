@@ -1,7 +1,7 @@
 .idea
 *.pyc
-/models/*
-/output/*
+#/models/*
+#/output/*
 .git
 PreprocessingSteps.txt
 Requirements.txt

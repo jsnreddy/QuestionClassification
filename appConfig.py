@@ -17,7 +17,7 @@ LABELS = ['who', 'what', 'when', 'affirmation', 'unknown']
 FEATURE_EXTRACTION_MODE = 'bow'
 
 # rf-random forests, lsvc - Linear SVC, gnb - Gaussian Naive Bayes, knn - k-nearest neighbours, lr - logistic regression, neuralN - neural network
-CLASSIFIER_MODE = 'neuralN'
+CLASSIFIER_MODE = 'lsvc'
 
 custom_stop_words = ['the', 'a', 'an', 'and', 'of', 'from', 'in']
 
