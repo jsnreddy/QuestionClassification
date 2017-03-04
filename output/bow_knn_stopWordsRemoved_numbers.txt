@@ -1,0 +1,22 @@
+
+Predicted values counts : who            120
+what           101
+affirmation     39
+unknown         34
+when             3
+Name: Predicted, dtype: int64
+Actual values counts : what           122
+who             81
+unknown         54
+affirmation     21
+when            19
+Name: Actual, dtype: int64
+Confusion Matrix : [[ 4  4  5  0  8]
+ [ 9 15 17  0 13]
+ [23  9 70  3 17]
+ [ 3  6  9  0  1]
+ [ 0  0  0  0 81]]
+Accuracy : 0.572390572391
+Precision : 0.382361976017
+Recall : 0.408404892011
+f-score : 0.381603052816

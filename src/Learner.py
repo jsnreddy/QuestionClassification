@@ -20,7 +20,7 @@ class Learner(object):
     def __init__(self):
         self.dataFolder = appConfig.DATA_FOLDER
         self.modelsFolder = appConfig.MODELS_FOLDER
-        self.trainingFile = appConfig.TRAIN_FILE
+        # self.trainingFile = appConfig.DATA_FILE
         self.trainingData = None
         self.trainingLabels = None
         self.trainingFeatures = None

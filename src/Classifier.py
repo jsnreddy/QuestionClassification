@@ -15,7 +15,7 @@ class Classifier(object):
     def __init__(self):
         self.dataFolder = appConfig.DATA_FOLDER
         self.modelsFolder = appConfig.MODELS_FOLDER
-        self.testFile = appConfig.TEST_FILE
+        # self.testFile = appConfig.DATA_FILE
         self.testData = None
         self.testLabels = None
         self.testFeatures = None
